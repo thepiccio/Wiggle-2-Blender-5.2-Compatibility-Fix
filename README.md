@@ -14,6 +14,8 @@ The ready-to-use .zip file of the addon, fully tested with Blender 5.2.1.
 
 Immediate access to updates if further compatibility issues arise.
 
+⚠️ Important notice: Anyone who has already bought the product in the past can download the new file without having to pay again.
+
 📥 How to install & use:
 After purchase, download the .zip file.
 
