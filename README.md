@@ -6,7 +6,7 @@ Bake Wiggle fix: Resolves an error that caused the Bake Wiggle operation to fail
 
 Bone Selection fix: Restores the ability to correctly select bones by clicking on them in the newer Blender version.
 
-🔗 Link per scaricare:
+🔗 Link download:
 https://thepiccio.gumroad.com/l/wiggle2toblender52
 
 📦 What is included?
