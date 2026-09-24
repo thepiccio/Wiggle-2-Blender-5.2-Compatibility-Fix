@@ -27,3 +27,5 @@ This addon is a community-maintained, modified version of Wiggle 2 originally cr
 Original Project: shteeve3d/blender-wiggle-2 on GitHub
 
 License: This modified version is distributed under the terms of the GNU General Public License v3.0 (GPL-3.0), exactly like the original project. The source code is freely available in compliance with the license terms. By purchasing here, you are supporting the maintenance, testing, and immediate availability of this updated version.
+
+🆓 Free versions will also be released later for future Blender versions, following the release of each updated version.
